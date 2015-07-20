@@ -1,7 +1,6 @@
 # -*- coding:utf-8 -*-
-from PyQt5.QtCore import Qt, QRegExp
+from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import QDialog, QGridLayout, QLabel, QSpinBox, QDialogButtonBox
-
 
 
 class NewImageDialog(QDialog):
